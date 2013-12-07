@@ -17,3 +17,6 @@
 - 09/2013 JSConfEU (Javascript conference)
 - 10/2013 LSXJS (Javascript conference)
 - 09/2008 Joined [Facebook.com] (https://www.facebook.com/tomasperezv)
+- 25/09/2008 Google Developers Day Madrid
+- 31/05/2007 Google Developers Day Madrid
+- 09/2012-~ Collaboration with Origo.by

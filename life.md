@@ -20,3 +20,4 @@
 - 25/09/2008 Google Developers Day Madrid
 - 31/05/2007 Google Developers Day Madrid
 - 09/2012-~ Collaboration with Origo.by
+- 01/2014 Speaker Training part II with Tim Cramp

@@ -22,7 +22,7 @@
 - 31/05/2007 Google Developers Day Madrid
 - 09/2012-~ Collaboration with Origo.by
 - 01/2014 Speaker Training part II with Tim Cramp
-- 18/05/2014 Speaker at Tuenti Technologies
+- 18/05/2014 Speaker at Tuenti Technologies: Scaling Teams and Code @ Spotify
 - 13/06/2014 Speaker Internal Tech talk at Spotify: Debugging and Profiling Node.js
 - 02/03/2014 Speaker Internal Tech talk at Spotify: Web Security
 - 18/06/2014 Sthlm.js meetup

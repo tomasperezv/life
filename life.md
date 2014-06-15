@@ -25,5 +25,5 @@
 - 18/05/2014 Speaker at Tuenti Technologies: Scaling Teams and Code @ Spotify
 - 13/06/2014 Speaker Internal Tech talk at Spotify: Debugging and Profiling Node.js
 - 02/03/2014 Speaker Internal Tech talk at Spotify: Web Security
-- 18/06/2014 Sthlm.js meetup
+- 18/06/2014 [Sthlm.js meetup](http://www.meetup.com/sthlm-js/events/188214822/)
 - 14/06/2014 Unlocked Level 3 at Project Euler (75 problems)

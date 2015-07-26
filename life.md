@@ -20,7 +20,7 @@
 - 09/2008 Joined [Facebook.com] (https://www.facebook.com/tomasperezv)
 - 25/09/2008 Google Developers Day Madrid
 - 31/05/2007 Google Developers Day Madrid
-- 09/2012-~ Collaboration with Origo.by
+- 09/2012-2014 Collaboration with Origo.by
 - 01/2014 Speaker Training part II with Tim Cramp
 - 18/05/2014 Speaker at Tuenti Technologies: Scaling Teams and Code @ Spotify
 - 13/06/2014 Speaker Internal Tech talk at Spotify: Debugging and Profiling Node.js

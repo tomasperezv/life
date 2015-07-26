@@ -16,6 +16,7 @@ body{
 	font-size: 12px;
 	-webkit-text-size-adjust: none;
 	position: relative;
+	overflow: hidden;
 }
 a{
 	color: #fff;
@@ -48,6 +49,8 @@ h1{
 #life{
 	padding-top: 40px;
 	padding-bottom: 5em;
+	overflow-x: scroll;
+	width: 100%;
 }
 #life section.year{
 	box-sizing: border-box;
@@ -298,6 +301,7 @@ h1{
 				html += life.renderEvent(d);
 			});
 			life.$el.innerHTML = html;
+			document.getElementById('life').scrollLeft = Math.max(document.body.scrollWidth, document.body.offsetWidth);
 		}
 	};
 

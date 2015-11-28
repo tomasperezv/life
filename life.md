@@ -1,29 +1,37 @@
 @tomasperezv's life
 ===================
 
-- 27/09/1982 Born
-- 09/2000-2006 Computer Science at Universidad de Oviedo
-- 2007-2010 Master Computer Security at UOC
-- 02/2007-12/2009 Web Developer at Ender Aplicaciones
-- 01/2010-12/2011 Software Engineer (Frontend developer) at Tuenti
-- 01/2012-~ Software Engineer (Frontend developer) at Spotify
-- 11/2013-~ Lead Software Engineer at Spotify
-- 28/08/2010 Joined [Github](https://github.com/tomasperezv)
-- 02/12/2013 Unlocked Level 2 at Project Euler (50 problems)
-- 21/10/2007 Joined Tuenti.com
-- 05/07/2013 Speaker at SpainJS (Madrid)
-- 26/11/2013 Speaker at jDays (Gothemburg)
-- 07/2013 Speaker Training with Tim Cramp
-- 27/05/2013-31/05/2013 Android Big Nerd Ranch training
-- 09/2013 JSConfEU (Javascript conference)
-- 10/2013 LSXJS (Javascript conference)
-- 09/2008 Joined [Facebook.com] (https://www.facebook.com/tomasperezv)
-- 25/09/2008 Google Developers Day Madrid
-- 31/05/2007 Google Developers Day Madrid
-- 09/2012-2014 Collaboration with Origo.by
-- 01/2014 Speaker Training part II with Tim Cramp
-- 18/05/2014 Speaker at Tuenti Technologies: Scaling Teams and Code @ Spotify
-- 13/06/2014 Speaker Internal Tech talk at Spotify: Debugging and Profiling Node.js
-- 02/03/2014 Speaker Internal Tech talk at Spotify: Web Security
+- 08/2013-~ Lead Software Engineer at Spotify *
+- 29/10/2015-29/10/2015 XP Tech Partices workshop with Jonathan Rasmusson
+- 02/06/2015-04/06/2015 Leadership Training
+- 29/05/2015 Speaker Internal Tech talk at Spotify: The evolution of Spotify.com
+- 04/11/2014 Speaker Internal Tech talk at Spotify: Cross platform Test Automation Framework
+- 09/2014 JSConfEU (Javascript conference)
+- 08/2014 ECOOP: European Conference on Object-Oriented Programming
 - 18/06/2014 [Sthlm.js meetup](http://www.meetup.com/sthlm-js/events/188214822/)
 - 14/06/2014 Unlocked Level 3 at Project Euler (75 problems)
+- 13/06/2014 Speaker Internal Tech talk at Spotify: Debugging and Profiling Node.js
+- 18/05/2014 Speaker at Tuenti Technologies: Scaling Teams and Code @ Spotify
+- 02/03/2014 Speaker Internal Tech talk at Spotify: Web Security
+- 01/2014 Speaker Training part II with Tim Cramp
+- 02/12/2013 Unlocked Level 2 at Project Euler (50 problems)
+- 26/11/2013 Speaker at jDays (Gothemburg)
+- 10/2013 LSXJS (Javascript conference)
+- 09/2013 JSConfEU (Javascript conference)
+- 01/2012-08/2013 Software Engineer (Full Stack Web developer) at Spotify *
+- 09/2012-2014 Collaboration with Origo.by
+- 05/07/2013 Speaker at SpainJS (Madrid)
+- 07/2013 Speaker Training with Tim Cramp
+- 27/05/2013-31/05/2013 Android Big Nerd Ranch training
+- 09/2012 Speaker at Dreamhack Spain: How Teams Work @ Spotify
+- 01/2010-12/2011 Software Engineer (Frontend developer) at Tuenti *
+- 10/2010 Barcelona Developers Conference
+- 28/08/2010 Joined [Github](https://github.com/tomasperezv)
+- 02/2007-12/2009 Web Developer at Ender Aplicaciones *
+- 09/2008 Joined [Facebook.com] (https://www.facebook.com/tomasperezv)
+- 25/09/2008 Google Developers Day Madrid
+- 21/10/2007 Joined Tuenti.com
+- 31/05/2007 Google Developers Day Madrid
+- 2007-2010 Master Computer Security at UOC
+- 09/2000-2006 Computer Science at Universidad de Oviedo *
+- 27/09/1982 Born

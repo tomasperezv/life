@@ -2,6 +2,7 @@
 ===================
 
 - 08/2013-~ Lead Software Engineer at Spotify *
+- 27/11/2015 [PHP Stockholm meetup](http://www.meetup.com/php-stockholm/events/226518332/)
 - 29/10/2015-29/10/2015 XP Tech Practices workshop with Jonathan Rasmusson
 - 02/06/2015-04/06/2015 Leadership Training
 - 29/05/2015 Speaker Internal Tech talk at Spotify: The evolution of Spotify.com
